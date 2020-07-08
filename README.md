@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Как запустить
+* Клонируете проект.
+* Первым запускаете серверную часть `npm run server`
+* Вторым запускаете проект в режиме разработки `npm run start`
+* Открываете две вкладки по адресу [http://localhost:3000](http://localhost:3000) <br />
+Можете в разных браузерах.
+* Входите в одинаковые комнаты, например, **TestRoom**
+* Переписываетесь с самим собой
+* &#128077; Вы классный!
+
 
 ## Available Scripts
 
